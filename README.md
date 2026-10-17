@@ -7,7 +7,7 @@ Includes both the authentication and secure servers
 Install [Go](https://go.dev/doc/install) and [git](https://git-scm.com/downloads), then clone and enter the repository
 
 ```bash
-$ git clone https://github.com/PretendoNetwork/yo-kai-watch-2
+$ git clone https://github.com/SamtendoNetwork/yo-kai-watch-2
 $ cd yo-kai-watch-2
 ```
 
